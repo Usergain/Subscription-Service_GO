@@ -1,0 +1,25 @@
+# Binaries
+/myapp
+*.exe
+*.out
+*.test
+
+# Go workspace stuff
+bin/
+pkg/
+vendor/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+*.log
+
+# Docker
+db-data/
+.env
